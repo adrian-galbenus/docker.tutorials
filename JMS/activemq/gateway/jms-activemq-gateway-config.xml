@@ -21,7 +21,7 @@
   <service>
     <name>JMS Tutorial Service</name>
     <description>A service that proxys to an JMS backend</description>
-    <accept>wss://kaazing.example.com:8000/</accept>
+    <accept>wss://kaazing.example.com:8000/jms</accept>
 
     <type>jms</type>
 
