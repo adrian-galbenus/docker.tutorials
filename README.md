@@ -3,7 +3,7 @@
 This repository provides example Docker configurations for several Kaazing Gateway deployment scenarios.  The scenarios build upon each other, from a simple TCP braodcast scenario to more advanced protocols and architectures. You can follow the scenarios in order to learn how to configure the Gateway with Docker from the ground up, or you can jump directly to the scenario you are interested in.
 
 ### Requirements
-TESTETSTE
+
 These tutorials require that you have Docker and Docker Compose installed.  If this is your first time using Docker follow the Docker Getting Started Guides:
 
   - [Mac](https://docs.docker.com/mac/)
